@@ -6,7 +6,7 @@
 //   const linkElement = screen.getByText(/learn react/i);
 //   expect(linkElement).toBeInTheDocument();
 // });
-
+// update this
 // describe("Login", () => {
 // 	test ("validate function should pass on correct input",()=>{
 // 		const name='name@test.com'

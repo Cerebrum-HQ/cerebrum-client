@@ -19,7 +19,7 @@ margin-top:4rem;
 	
 }
 `;
-export const Login = styled(LinkR)`
+export const Signin = styled(LinkR)`
 
 `;
 

@@ -63,7 +63,7 @@ const Footer = ()=>{
       <SocialMedia>
       <SocialMediaWrap>
         <SocialLogo to ="/">
-        LOGO
+        <img src ="https://res.cloudinary.com/cmp84378/image/upload/v1611468513/Logo_mbswgk.png" alt="LOGO" />
         </SocialLogo>
         <WebsiteRights> Copyright C 2021 Cerebrum,All right reserved</WebsiteRights>
         <SocialIcons>
